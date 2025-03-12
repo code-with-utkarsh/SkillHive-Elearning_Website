@@ -10,7 +10,6 @@ SkillHive is an innovative learning platform designed to bridge the gap between 
 - 🎓 **Personalized Learning Paths**: Tailored learning experiences based on user preferences and skill levels.
 - 🏆 **Gamified Learning**: Earn points, badges, and rewards for completing courses.
 - 💻 **Live Coding & Assessments**: Hands-on exercises to test and enhance your skills in real-time.
-- 🤖 **AI-Powered Recommendations**: Intelligent course suggestions based on learning patterns.
 - 🤝 **Community Support**: Join forums, participate in discussions, and collaborate with peers.
 - 🏗 **Real-World Projects**: Gain practical experience with industry-relevant assignments.
 - 📊 **Progress Tracking**: Monitor your learning journey with detailed analytics.
